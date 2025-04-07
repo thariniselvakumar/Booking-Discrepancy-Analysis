@@ -4,13 +4,16 @@ You are provided with a raw dataset containing booking information for a multi-s
 
 **Dataset** : 
 
-[DataAnalyst_Assesment_Dataset.xlsx](attachment:c294670e-03cc-4670-934b-dddeabb33d65:DataAnalyst_Assesment_Dataset.xlsx)
+https://github.com/thariniselvakumar/Booking-Discrepancy-Analysis/blob/main/booking%20dataset.xlsx 
+
 
 **Objective:** 
 
 This project involves a comprehensive analysis of a given dataset, commencing with data cleaning and preprocessing using Python. Exploratory Data Analysis (EDA) and business queries will be performed using SQL. Key findings will be visualized using Power BI, providing actionable insights.
 
 ## Data Pre-processing using Python:
+
+Code : https://github.com/thariniselvakumar/Booking-Discrepancy-Analysis/blob/main/booking_python_code.ipynb
 
 ```python
 # Importing required libraries
@@ -77,9 +80,11 @@ df.info(), df.head()
 
 Cleaned Dataset : 
 
-[DataAnalyst_Assesment_Dataset_cleaned.xlsx](attachment:8158a984-2532-41f6-8fbe-2306fade072f:DataAnalyst_Assesment_Dataset_cleaned.xlsx)
+https://github.com/thariniselvakumar/Booking-Discrepancy-Analysis/blob/main/booking%20data_cleaned.xlsx
 
 **EDA in SQL Server:**
+
+code: https://github.com/thariniselvakumar/Booking-Discrepancy-Analysis/blob/main/SQl%20code_project.sql
 
 ```sql
 --Importing the Dataset
@@ -158,7 +163,7 @@ These SQL queries provide comprehensive insights into various aspects of the bus
 
 **Overview** : This Power BI report provides a comprehensive analysis of the bookings, offering actionable insights and recommendations. Through interactive visuals and dashboards, the report highlights key trends, patterns, and correlations, enabling stakeholders to make informed decisions. The report's findings and recommendations aim to [specific goal or objective], driving business growth and improvement.
 
-*
+*Report : https://github.com/thariniselvakumar/Booking-Discrepancy-Analysis/blob/main/powerbi_booking_report.pbix
 **Insights :**
 
 - The business has generated 39.48K in revenue from 1000 bookings, indicating an average revenue per booking of approximately $39.48
